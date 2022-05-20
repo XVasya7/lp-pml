@@ -1,0 +1,43 @@
+body {
+    background: url(test.jpg) no-repeat center center fixed;
+    background-size: cover; 
+  }
+  table {
+    table-layout: fixed;
+    width: 45%;
+    border-collapse: collapse;
+    border: 3px solid #e21b1b;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black
+    
+  }
+
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  span {
+      word-spacing: 170px;
+  }
+  .osu {
+    text-shadow: 0 0 10px red, 0 1px red, 0 0 0 red;
+  }
+  tr {
+    border-collapse: collapse; border: 3px solid e21b1b;
+  }
+
+
+  
+  
